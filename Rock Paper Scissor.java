@@ -1,0 +1,1 @@
+select <table1>.<column1> , <table2>.<column N> from <table1> inner join <table2> On <table1>.<Same column>=<table2>.<Same column>;
